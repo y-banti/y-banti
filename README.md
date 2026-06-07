@@ -163,9 +163,13 @@ https://banti0.vercel.app/
 ## 💭 Motto
 
 > "Technology should save lives, not just automate tasks."
->
-> <p align="center">
-<img src="https://raw.githubusercontent.com/y-banti/y-banti/output/github-contribution-grid-snake.svg" />
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/y-banti/y-banti/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
